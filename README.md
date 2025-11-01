@@ -15,8 +15,6 @@ The weather data used in this dashboard is fetched via an API from [WeatherAPI.c
 
 🌍 Multi-City Comparison – Instantly switch between cities.
 
-Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNWMyNTRhZDgtOThiOC00ZDMwLTlhYTItYjI2NjJhYTFiZGFiIiwidCI6IjIxN2QxNTFjLThhMTUtNDI0Zi04NTdkLWViYTU0OGEzYzc4YSJ9
-
 Weather Dashboard :
 <img width="1397" height="781" alt="image" src="https://github.com/user-attachments/assets/6f7a78fe-786c-4989-8ad8-eef615f676d1" />
 
