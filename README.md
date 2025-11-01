@@ -1,6 +1,7 @@
 The weather data used in this dashboard is fetched via an API from [WeatherAPI.com](https://www.weatherapi.com/).
  
  Key Features:
+ 
 🌡️ Real-Time Temperature Display – Real-time weather conditions for multiple cities.
 
 📈 7-Day Forecast Trend – Line chart showing the upcoming temperature trend.
